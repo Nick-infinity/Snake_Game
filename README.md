@@ -16,7 +16,7 @@ The Game is written in C++ language. The project is not using OOP concepts as of
 **TO DO**
 1. Use OOPS
 2. Convert to multi-threaded application
-3.  flickering by using actual console widow instead of cmd
-4 .Use vector-Art for drawable components
+3. Stop flickering by using actual console widow instead of cmd
+4. Use vector-Art for drawable components
 
 
